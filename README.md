@@ -1,6 +1,6 @@
 # README: Hosting a Static Website on AWS S3
 
-Welcome to the quick guide on how to host a static website on AWS S3 (Simple Storage Service). This README provides a summary of the steps outlined in the [full article](https://medium.com/@kevinkiruri/hosting-a-static-website-on-aws-s3-35f49dd1c5e6), authored by [Mohini].
+Welcome to the quick guide on how to host a static website on AWS S3 (Simple Storage Service). 
 
 ## :rocket: Introduction
 
