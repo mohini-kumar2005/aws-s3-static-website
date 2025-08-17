@@ -66,7 +66,6 @@ The article includes sample website pages for your reference:
 
 With these steps, you can easily host your static website on AWS S3, benefiting from its simplicity, speed, and cost-effectiveness. Have fun hosting your website!
 
-For more details and a complete walkthrough, please refer to the original article: [Hosting a static website on AWS S3](https://medium.com/@kevinkiruri/hosting-a-static-website-on-aws-s3-35f49dd1c5e6).
 
 ---
 
